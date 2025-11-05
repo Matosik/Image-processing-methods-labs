@@ -1,0 +1,104 @@
+{
+  "0.1": {
+    "fp": 519,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 523
+  },
+  "0.15000000000000002": {
+    "fp": 511,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 515
+  },
+  "0.2": {
+    "fp": 506,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 510
+  },
+  "0.25": {
+    "fp": 496,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 500
+  },
+  "0.30000000000000004": {
+    "fp": 478,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 482
+  },
+  "0.35": {
+    "fp": 447,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 451
+  },
+  "0.4": {
+    "fp": 400,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 404
+  },
+  "0.45000000000000007": {
+    "fp": 343,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 347
+  },
+  "0.5": {
+    "fp": 274,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 278
+  },
+  "0.55": {
+    "fp": 219,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 223
+  },
+  "0.6": {
+    "fp": 159,
+    "missed": 0,
+    "matched": 4,
+    "num_dets": 163
+  },
+  "0.65": {
+    "fp": 109,
+    "missed": 1,
+    "matched": 3,
+    "num_dets": 112
+  },
+  "0.7000000000000001": {
+    "fp": 65,
+    "missed": 1,
+    "matched": 3,
+    "num_dets": 68
+  },
+  "0.75": {
+    "fp": 41,
+    "missed": 1,
+    "matched": 3,
+    "num_dets": 44
+  },
+  "0.8": {
+    "fp": 18,
+    "missed": 2,
+    "matched": 2,
+    "num_dets": 20
+  },
+  "0.85": {
+    "fp": 7,
+    "missed": 3,
+    "matched": 1,
+    "num_dets": 8
+  },
+  "0.9": {
+    "fp": 4,
+    "missed": 4,
+    "matched": 0,
+    "num_dets": 4
+  }
+}
