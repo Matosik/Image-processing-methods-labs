@@ -72,10 +72,10 @@ def correlation_method(image, mask):
             # print(np.sum(fragment * fragment))
 
             if np.sum(fragment) != 0:
-                R[n, m] = np.sum(fragment * norm_mask) / np.sqrt(np.sum(fragment * fragment))
+                R[n, m] = np.sum(fragment * norm_mask) / np.sqrt(np.sum(fragment ** 2))
             else:
                 R[n, m] = 0
-
+    print("Сумма кореляционного поля" + sum(R))
     return R
 
 
